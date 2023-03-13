@@ -92,3 +92,78 @@
 2020-02-14/18:50:28		Entered the load_model method of the File_Operation class
 2020-02-14/18:50:28		Model File RandomForest3 loaded. Exited the load_model method of the Model_Finder class
 2020-02-14/18:50:28		End of Prediction
+2023-03-07/20:22:41		Start of Validation on files for prediction!!
+2023-03-07/20:22:42		Raw Data Validation Complete!!
+2023-03-07/20:22:42		Starting Data Transforamtion!!
+2023-03-07/20:22:42		DataTransformation Completed!!!
+2023-03-07/20:22:42		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-03-07/20:22:43		Table creation Completed!!
+2023-03-07/20:22:43		Insertion of Data into Table started!!!!
+2023-03-07/20:24:30		Insertion in Table completed!!!
+2023-03-07/20:24:30		Deleting Good Data Folder!!!
+2023-03-07/20:24:30		Good_Data folder deleted!!!
+2023-03-07/20:24:30		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-03-07/20:24:30		Bad files moved to archive!! Bad folder Deleted!!
+2023-03-07/20:24:30		Validation Operation completed!!
+2023-03-07/20:24:30		Extracting csv file from table
+2023-03-07/20:24:30		Start of Prediction
+2023-03-07/20:24:30		Entered the get_data method of the Data_Getter class
+2023-03-07/20:24:30		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-03-07/20:24:30		Entered the is_null_present method of the Preprocessor class
+2023-03-07/20:24:30		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2023-03-07/20:24:30		Entered the impute_missing_values method of the Preprocessor class
+2023-03-07/20:24:30		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2023-03-07/20:24:30		Entered the load_model method of the File_Operation class
+2023-03-07/20:24:30		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2023-03-07/20:24:30		Error occured while running the prediction!! Error:: Incorrect number of features. Got 94 features, expected 115
+2023-03-08/07:21:02		Start of Validation on files for prediction!!
+2023-03-08/07:21:03		Raw Data Validation Complete!!
+2023-03-08/07:21:03		Starting Data Transforamtion!!
+2023-03-08/07:21:03		DataTransformation Completed!!!
+2023-03-08/07:21:03		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-03-08/07:21:03		Table creation Completed!!
+2023-03-08/07:21:03		Insertion of Data into Table started!!!!
+2023-03-08/07:22:16		Insertion in Table completed!!!
+2023-03-08/07:22:16		Deleting Good Data Folder!!!
+2023-03-08/07:22:16		Good_Data folder deleted!!!
+2023-03-08/07:22:16		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-03-08/07:22:16		Bad files moved to archive!! Bad folder Deleted!!
+2023-03-08/07:22:16		Validation Operation completed!!
+2023-03-08/07:22:16		Extracting csv file from table
+2023-03-08/07:22:16		Start of Prediction
+2023-03-08/07:22:16		Entered the get_data method of the Data_Getter class
+2023-03-08/07:22:16		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-03-08/07:22:16		Entered the is_null_present method of the Preprocessor class
+2023-03-08/07:22:16		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2023-03-08/07:22:16		Entered the impute_missing_values method of the Preprocessor class
+2023-03-08/07:22:16		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2023-03-08/07:22:16		Entered the load_model method of the File_Operation class
+2023-03-08/07:22:16		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2023-03-08/07:22:16		Error occured while running the prediction!! Error:: Incorrect number of features. Got 94 features, expected 115
+2023-03-08/07:24:49		Start of Validation on files for prediction!!
+2023-03-08/07:26:26		Start of Validation on files for prediction!!
+2023-03-08/07:26:27		Raw Data Validation Complete!!
+2023-03-08/07:26:27		Starting Data Transforamtion!!
+2023-03-08/07:26:27		DataTransformation Completed!!!
+2023-03-08/07:26:27		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-03-08/07:26:27		Table creation Completed!!
+2023-03-08/07:26:27		Insertion of Data into Table started!!!!
+2023-03-08/07:27:40		Insertion in Table completed!!!
+2023-03-08/07:27:40		Deleting Good Data Folder!!!
+2023-03-08/07:27:40		Good_Data folder deleted!!!
+2023-03-08/07:27:40		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-03-08/07:27:40		Bad files moved to archive!! Bad folder Deleted!!
+2023-03-08/07:27:40		Validation Operation completed!!
+2023-03-08/07:27:40		Extracting csv file from table
+2023-03-08/07:27:40		Start of Prediction
+2023-03-08/07:27:40		Entered the get_data method of the Data_Getter class
+2023-03-08/07:27:40		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-03-08/07:27:40		Entered the is_null_present method of the Preprocessor class
+2023-03-08/07:27:40		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2023-03-08/07:27:40		Entered the impute_missing_values method of the Preprocessor class
+2023-03-08/07:27:40		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2023-03-08/07:27:40		Entered the load_model method of the File_Operation class
+2023-03-08/07:27:40		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2023-03-08/07:27:40		Error occured while running the prediction!! Error:: Incorrect number of features. Got 94 features, expected 115
+2023-03-08/07:32:29		Start of Validation on files for prediction!!
+2023-03-13/14:39:19		Start of Validation on files for prediction!!
